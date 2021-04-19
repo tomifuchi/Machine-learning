@@ -1,0 +1,7 @@
+Enron email dataset
+
+Taken from here 
+m = 5171 emails
+y = 1499 spams (29%), 3672 mails (71%)
+
+https://www.kaggle.com/venky73/spam-mails-dataset
