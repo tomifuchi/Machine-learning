@@ -1,5 +1,8 @@
 Classic, spam classification problem
 
+#Can't upload a large dataset file size to git. Will include a link to these processed data later.
+#But here are the findings.
+
 #Data of 4 set all were processed into  below data structure in octave.
 #Run ini to load all 4 data set.
 
